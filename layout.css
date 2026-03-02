@@ -21,3 +21,27 @@ body{
 .nav a:hover{
     color: aqua;
 }
+.kotak{
+ float: left;
+ padding: 20px;
+
+    background-color: #ecf0f1;
+    min-height: 400px;
+}
+.left{
+ float: left;
+    width: 25%;
+}
+    
+.main-content{
+ float: left;
+    width: 50%;
+    
+}
+
+.right {
+ float: left;
+    width: 25%;
+    padding: 15px;
+    background-color: #ecf0f1;
+    min-height: 400px;}
