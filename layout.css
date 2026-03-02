@@ -24,7 +24,6 @@ body{
 .kotak{
  float: left;
  padding: 20px;
-
     background-color: #ecf0f1;
     min-height: 400px;
 }
@@ -42,6 +41,11 @@ body{
 .right {
  float: left;
     width: 25%;
-    padding: 15px;
-    background-color: #ecf0f1;
-    min-height: 400px;}
+    
+}
+
+.footer{
+ text-align: center;
+color: #ecf0f1;
+ background-color: #2c3e50;
+}
